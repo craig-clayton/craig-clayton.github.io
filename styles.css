@@ -80,6 +80,7 @@ h3{
 	}
 	.title{
 		visibility: hidden;
+		height: 1px;
 	}
 	.mobiletitle{
 		visibility: visible;
